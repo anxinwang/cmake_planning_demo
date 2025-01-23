@@ -1,2 +1,0 @@
-/Users/wanganxin/Desktop/cmake_planning/cmake_planning_demo/build/CMakeFiles/edit_cache.dir
-/Users/wanganxin/Desktop/cmake_planning/cmake_planning_demo/build/CMakeFiles/rebuild_cache.dir
